@@ -32,6 +32,7 @@
 # tyre rear
 * 150/80-15
 * 250+-10kpa
+* [cst](https://item.taobao.com/item.htm?id=648933369203)
 
 # engine (black) oil
 * engine oil capacity is about 1.5L
