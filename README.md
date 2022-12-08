@@ -49,7 +49,7 @@ uses DOT4 brake fluid
 * [MOTUL 4T 7100 FULLY Synthetic Ester](https://shopee.com.my/product/149761864/16469383232)
 
 # oil filter
-* [Qianjiang Flash 300 Oil Filter Grid QJ300-12 300](https://shopee.com.my/((Ready-Straw)-Qianjiang-Flash-300-Oil-Filter-Grid-QJ300-12-300-i.455243973.18367114729)
+* [Qianjiang Flash 300 Oil Filter Grid QJ300-12 300](https://shopee.com.my/%28%28Ready-Straw%29-Qianjiang-Flash-300-Oil-Filter-Grid-QJ300-12-300-i.455243973.18367114729)
 
 # spark plug
 model : CR8E
