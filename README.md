@@ -1,3 +1,5 @@
+[QJ SRV-250](https://qjmotor.my/product/SRV250/)
+
 # tyre front
 120/80-16
 
