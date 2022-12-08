@@ -17,9 +17,15 @@
 * compression ratio : 10.3:1
 * starting mode : electric starting
 
+# top speed
+* 130-150kmph depend on payload
+
 # brake
 * front braking mode : manual disc brake
 * rear braking mode : pedal disc brake
+
+# brake fluid
+uses DOT4 brake fluid
 
 # fuel
 * fuel tank : 13.5+-0.5L
@@ -40,14 +46,14 @@
 * 1.3L (oil filter is replaced at the same time)
 * 15w-50
 * [PJ1 Fully Synthetic Engine Oil 15w50](https://shopee.com.my/product/137729721/10037709964?smtt=0.179735980-1670482012.3)
+* [MOTUL 4T 7100 FULLY Synthetic Ester](https://shopee.com.my/product/149761864/16469383232)
 
 # oil filter
+* [Qianjiang Flash 300 Oil Filter Grid QJ300-12 300](https://shopee.com.my/((Ready-Straw)-Qianjiang-Flash-300-Oil-Filter-Grid-QJ300-12-300-i.455243973.18367114729)
 
 # spark plug
 model : CR8E
 
-# brake fluid
-uses DOT4 brake fluid
 
 # coolant
 model : FD-2
