@@ -57,3 +57,6 @@ model : CR8E
 
 # coolant
 model : FD-2
+
+# interest group
+[whatsapp](https://chat.whatsapp.com/Hs2CtAdsgrh1qc7PLXONZr)
