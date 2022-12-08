@@ -37,11 +37,8 @@
 * engine oil capacity is about 1.5L
 * 1.1L (no oil filter is replaced)
 * 1.3L (oil filter is replaced at the same time)
-
-15w-50
-```
-https://shopee.com.my/product/137729721/10037709964?smtt=0.179735980-1670482012.3
-
+* 15w-50
+* [PJ1 Fully Synthetic Engine Oil 15w50](https://shopee.com.my/product/137729721/10037709964?smtt=0.179735980-1670482012.3)
 ```
 
 # oil filter
