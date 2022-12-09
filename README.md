@@ -24,6 +24,9 @@
 * front braking mode : manual disc brake
 * rear braking mode : pedal disc brake
 
+# abs
+* [why require abs on bike?](https://www.youtube.com/watch?v=ZlsyZP2Pm0E)
+
 # brake fluid
 uses DOT4 brake fluid
 
