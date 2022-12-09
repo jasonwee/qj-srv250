@@ -37,10 +37,12 @@ uses DOT4 brake fluid
 # tyre front
 * 120/80-16
 * 220+-10kpa
+* tubeless
 
 # tyre rear
 * 150/80-15
 * 250+-10kpa
+* tubeless
 * [cst](https://item.taobao.com/item.htm?id=648933369203)
 
 # engine (black) oil
