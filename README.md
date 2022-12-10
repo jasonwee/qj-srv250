@@ -67,5 +67,11 @@ model : FD-2
 
 # box
 
+# pro
+* acceleration is powercharge!
+
+# con
+* missing screw (bad assembly and QC at penang)
+
 # interest group
 [whatsapp](https://chat.whatsapp.com/Hs2CtAdsgrh1qc7PLXONZr)
