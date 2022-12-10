@@ -33,6 +33,7 @@ uses DOT4 brake fluid
 # fuel
 * fuel tank : 13.5+-0.5L
 * fuel type : regular unleaded gasoline only
+* some owner reported 12 sen per km with Ron97 and if Ron95 7sen per km
 
 # tyre front
 * 120/80-16
