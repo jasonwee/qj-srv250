@@ -73,6 +73,8 @@ model : FD-2
 
 # con
 * missing screw (bad assembly and QC at penang)
+* passenger footrest location too low, same level as the exhaust, should higher
+  than the exhaust
 
 # interest group
 [whatsapp](https://chat.whatsapp.com/Hs2CtAdsgrh1qc7PLXONZr)
