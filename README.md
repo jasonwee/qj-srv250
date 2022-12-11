@@ -71,6 +71,7 @@ model : FD-2
 
 # pro
 * acceleration is powercharge!
+* comfortable in maneuvers left and right
 
 # con
 * missing screw (bad assembly and QC at penang)
