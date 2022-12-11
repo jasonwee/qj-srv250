@@ -13,6 +13,7 @@
 * displacement : 249ml
 * maximum power : 20.5kW/9000rpm
 * maximum torque : 23.0Nm/5000rpm
+* horse power : 27.5Hp at 9000rpm
 * ignition mode : ECU electronic control ignition
 * compression ratio : 10.3:1
 * starting mode : electric starting
