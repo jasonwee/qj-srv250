@@ -75,6 +75,7 @@ model : FD-2
 * missing screw (bad assembly and QC at penang)
 * passenger footrest location too low, same level as the exhaust, should higher
   than the exhaust
+* manual never specify coolant require how many litre
 
 # interest group
 [whatsapp](https://chat.whatsapp.com/Hs2CtAdsgrh1qc7PLXONZr)
