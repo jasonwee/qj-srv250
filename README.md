@@ -78,6 +78,8 @@ model : FD-2
 * passenger footrest location too low, same level as the exhaust, should higher
   than the exhaust
 * manual never specify coolant require how many litre
+* radiator expansion tank not transparent, it should be, [see here](./img/radiator_expansion_tank.jpeg)
+* [wire touch the top of the engine](./img/wire_touches_top_engine.jpeg)
 
 # interest group
 [whatsapp](https://chat.whatsapp.com/Hs2CtAdsgrh1qc7PLXONZr)
