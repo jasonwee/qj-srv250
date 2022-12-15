@@ -85,5 +85,8 @@ model : FD-2
 * not sure dynojet, supertuner or master mst but can tune such that to
   increase the horsepower.
 
+# survey
+* [owner and location](https://docs.google.com/forms/d/e/1FAIpQLSeioSYR3JOPcORMZLTrCVHQoLlHdX-XExfRGmiOuasB59HiUw/viewform)
+
 # interest group
 [whatsapp](https://chat.whatsapp.com/Hs2CtAdsgrh1qc7PLXONZr)
