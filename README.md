@@ -81,5 +81,9 @@ model : FD-2
 * radiator expansion tank not transparent, it should be, [see here](./img/radiator_expansion_tank.jpeg)
 * [wire touch the top of the engine](./img/wire_touches_top_engine.jpeg)
 
+# tuning
+* not sure dynojet, supertuner or master mst but can tune such that to
+  increase the horsepower.
+
 # interest group
 [whatsapp](https://chat.whatsapp.com/Hs2CtAdsgrh1qc7PLXONZr)
