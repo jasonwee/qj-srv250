@@ -20,6 +20,7 @@
 
 # top speed
 * 130-150kmph depend on payload
+* 150kmph with payload 92kg (after 1st service)
 
 # brake
 * front braking mode : manual disc brake
