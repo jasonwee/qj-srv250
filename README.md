@@ -95,6 +95,7 @@ model : FD-2
 
 # survey
 * [owner and location](https://docs.google.com/forms/d/e/1FAIpQLSeioSYR3JOPcORMZLTrCVHQoLlHdX-XExfRGmiOuasB59HiUw/viewform)
+* [summary survey above](https://docs.google.com/forms/d/1u_UpnN06bZ08dOuZSQnqf7Kbmlw8PzbTH9qrJLaHByI/viewanalytics)
 
 # interest group
 [whatsapp](https://chat.whatsapp.com/Hs2CtAdsgrh1qc7PLXONZr)
