@@ -88,6 +88,7 @@ model : FD-2
 * manual never specify coolant require how many litre
 * radiator expansion tank not transparent, it should be, [see here](./img/radiator_expansion_tank.jpeg)
 * [wire touch the top of the engine](./img/wire_touches_top_engine.jpeg)
+* incomplete [spanner set](./img/spanner_set.jpeg), the [pedal screw](./img/left_pedal_join_screw.jpeg), suggest get from mr diy [complete ellenki and star wrench set](./img/star_key_wrench.jpeg)
 
 # tuning
 * not sure dynojet, supertuner or master mst but can tune such that to
