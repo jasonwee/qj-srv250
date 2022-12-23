@@ -66,6 +66,9 @@ uses DOT4 brake fluid
 # oil filter
 * [Qianjiang Flash 300 Oil Filter Grid QJ300-12 300](https://shopee.com.my/%28%28Ready-Straw%29-Qianjiang-Flash-300-Oil-Filter-Grid-QJ300-12-300-i.455243973.18367114729)
 
+# air filter
+* [video on how to change air filter](https://www.douyin.com/video/7112474326867135757)
+
 # spark plug
 model : CR8E
 
