@@ -76,6 +76,9 @@ model : CR8E
 # coolant
 model : FD-2
 
+# clutch
+* video on how to [change to transparent clutch cover](https://v.douyin.com/hprpK8c/)
+
 # sidebag
 
 # box
