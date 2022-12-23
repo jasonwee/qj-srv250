@@ -79,9 +79,18 @@ model : FD-2
 # clutch
 * video on how to [change to transparent clutch cover](https://v.douyin.com/hprpK8c/)
 
-# sidebag
+# sidebag / box
+* [sidebag and backrest installation video](https://www.douyin.com/search/%E9%A6%99%E5%B8%85650%E8%BE%B9%E5%8C%85%E9%9D%A0%E8%83%8C%E5%AE%89%E8%A3%85%E8%A7%86%E9%A2%91?publish_time=0&sort_type=0&source=switch_tab&type=general)
+* [sidebag installation video](https://www.douyin.com/user/MS4wLjABAAAAwyi0Fkzv2NZFCgkAqzbp0gXrjhfBvagLSdeShIDka52Khlaq3uDAgEw2OS7hy-zX?modal_id=7076673950528326924)
 
-# box
+# backrest
+* [backrest installation video](https://www.bilibili.com/video/BV16g411z7F6/)
+* [backrest installation video](https://www.douyin.com/video/7118744517657906440)
+
+# protection bar
+* [protection bar installation video](https://www.douyin.com/video/7159449835354033441)
+* [protection bar installation video](https://www.douyin.com/video/7078975992034807047)
+* [protection bar installation video](https://www.douyin.com/video/7113916624255585573)
 
 # pro
 * acceleration is powercharge!
