@@ -99,8 +99,8 @@ model : FD-2
 
 # con
 * missing screw (bad assembly and QC at penang)
-* passenger footrest location too low, same level as the exhaust, should higher
-  than the exhaust
+* passenger right footrest location too low, same level as the exhaust, should
+  higher than the exhaust
 * manual never specify coolant require how many litre
 * radiator expansion tank not transparent, it should be, [see here](./img/radiator_expansion_tank.jpeg)
 * [wire touch the top of the engine](./img/wire_touches_top_engine.jpeg)
