@@ -92,6 +92,10 @@ model : FD-2
 * [protection bar installation video](https://www.douyin.com/video/7078975992034807047)
 * [protection bar installation video](https://www.douyin.com/video/7113916624255585573)
 
+# body armor
+* [CE Rating](https://www.motorcyclegear.com/info_pages/faq_armor_ratings_explained.html)
+* [sample body armor](https://www.motorcyclelegalfoundation.com/truth-motorcycle-body-armor/)
+
 # pro
 * acceleration is powercharge!
 * comfortable in maneuvers left and right
