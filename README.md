@@ -55,6 +55,9 @@ uses DOT4 brake fluid
 # service center
 * [mforce](https://www.mforce.my/locations/)
 
+# cost
+* first service at MForce [RM145.20](./img/first_service_receipt.jpeg)
+
 # engine (black) oil
 * engine oil capacity is about 1.5L
 * 1.1L (no oil filter is replaced)
@@ -113,6 +116,9 @@ model : FD-2
 # tuning
 * not sure dynojet, supertuner or master mst but can tune such that to
   increase the horsepower.
+
+# misc
+* if travelling across country, need to bring proof of bike ownership and insurance because require need to buy extra insurance during entering to another country.
 
 # survey
 * [owner and location](https://docs.google.com/forms/d/e/1FAIpQLSeioSYR3JOPcORMZLTrCVHQoLlHdX-XExfRGmiOuasB59HiUw/viewform)
