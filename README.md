@@ -9,8 +9,8 @@
 
 # engine
 * type : 2v58MM-A, double cylinder V-Twin,8V
-* bore x stroke : 58.0cm x 47.2cm
-* displacement : 249litres [calculator](https://www.omnicalculator.com/physics/engine-displacement)
+* bore x stroke : 58.0mm x 47.2mm
+* displacement : 249cc [calculator](https://www.omnicalculator.com/physics/engine-displacement)
 * maximum power : 20.5kW/9000rpm
 * maximum torque : 23.0Nm/5000rpm
 * horse power : 27.5Hp at 9000rpm
