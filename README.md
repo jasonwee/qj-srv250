@@ -112,6 +112,10 @@ model : FD-2
 * radiator expansion tank not transparent, it should be, [see here](./img/radiator_expansion_tank.jpeg)
 * [wire touch the top of the engine](./img/wire_touches_top_engine.jpeg)
 * incomplete [spanner set](./img/spanner_set.jpeg), the [pedal screw](./img/left_pedal_join_screw.jpeg), suggest get from mr diy [complete ellenki and star wrench set](./img/star_key_wrench.jpeg)
+* owner reported [two gas tubes connection](./img/connection_2_connection_10_schmatic.jpeg)
+  not tight enough and came off after high speed ride. The loose connection is
+  located at the [left box](./img/left_box.jpeg) and inner connection at [point2 and point10](./img/connection_2_connection_10.jpeg).
+  BAD ASSEMBLY and QC at penang factory!
 
 # tuning
 * not sure dynojet, supertuner or master mst but can tune such that to
