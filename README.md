@@ -51,6 +51,7 @@ uses DOT4 brake fluid
 * 250+-10kpa
 * tubeless
 * [cst](https://item.taobao.com/item.htm?id=648933369203)
+* [bridgestone](https://shopee.com.my/product/279763200/13513573206)
 
 # service center
 * [mforce](https://www.mforce.my/locations/)
