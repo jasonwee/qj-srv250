@@ -21,6 +21,9 @@
 # schematic diagram
 * [complete detail](./docs/PARTLIST-QJMotor-SRV250-SRV250-key353.pdf)
 
+# manual
+* [official manual](./docs/QJ-SRV-250-Manual.pdf)
+
 # top speed
 * 130-150kmph depend on payload
 * 150kmph with payload 92kg (after 1st service)
