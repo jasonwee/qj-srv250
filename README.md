@@ -63,6 +63,7 @@ uses DOT4 brake fluid
 * first service at MForce [RM145.20](./img/first_service_receipt.jpeg)
 * first service at MForce [RM145.20](./img/first_service_receipt_2.jpeg)
 * first service at KST [RM151.20](./img/first_service_receipt_1.jpeg)
+* sprocket price at MForce [RM148.10](img/sprocket_price.jpeg)
 
 # engine (black) oil
 * engine oil capacity is about 1.5L
